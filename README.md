@@ -1,6 +1,6 @@
 #go-rest-api
 
-##**Prerequisite:**
+##Prerequisite:
 - _go_ should be installed
 
 ##**Description:**
